@@ -1,0 +1,20 @@
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\1.QA Wiki.exe
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\1.QA Wiki.deps.json
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\1.QA Wiki.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\1.QA Wiki.dll
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\1.QA Wiki.pdb
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\WebDriver.dll
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\runtimes\linux\native\selenium-manager
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\runtimes\osx\native\selenium-manager
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\bin\Debug\net8.0\runtimes\win\native\selenium-manager.exe
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.csproj.Up2Date
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.dll
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\refint\1.QA Wiki.dll
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.pdb
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\1.QA Wiki.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\1.QA Wiki\1.QA Wiki\obj\Debug\net8.0\ref\1.QA Wiki.dll
