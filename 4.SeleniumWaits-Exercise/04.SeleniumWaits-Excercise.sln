@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ImplicitWaitSearch", "04.SeleniumWaits-Excercise\1.ImplicitWaitSearch.csproj", "{88921BC9-6550-4139-86A7-E4BE652BA692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ExplicitWaitSearch", "2.ExplicitWaitSearch\2.ExplicitWaitSearch.csproj", "{8BFE79ED-295B-466D-9969-AB611D34AE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.WorkingWithWindows", "3.WorkingWithWindows\3.WorkingWithWindows.csproj", "{A9340B2F-1832-4E7D-91FC-DB210C2DDD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.WorkingWithAlerts", "4.WorkingWithAlerts\4.WorkingWithAlerts.csproj", "{95F85DD0-A544-4058-8351-DB9DCD4B6CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.WorkingWithIFrames", "5.WorkingWithIFrames\5.WorkingWithIFrames.csproj", "{C48B3B5A-74AD-4A33-9111-FC8B18158673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88921BC9-6550-4139-86A7-E4BE652BA692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88921BC9-6550-4139-86A7-E4BE652BA692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88921BC9-6550-4139-86A7-E4BE652BA692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88921BC9-6550-4139-86A7-E4BE652BA692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFE79ED-295B-466D-9969-AB611D34AE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFE79ED-295B-466D-9969-AB611D34AE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFE79ED-295B-466D-9969-AB611D34AE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFE79ED-295B-466D-9969-AB611D34AE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9340B2F-1832-4E7D-91FC-DB210C2DDD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9340B2F-1832-4E7D-91FC-DB210C2DDD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9340B2F-1832-4E7D-91FC-DB210C2DDD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9340B2F-1832-4E7D-91FC-DB210C2DDD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F85DD0-A544-4058-8351-DB9DCD4B6CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F85DD0-A544-4058-8351-DB9DCD4B6CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F85DD0-A544-4058-8351-DB9DCD4B6CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F85DD0-A544-4058-8351-DB9DCD4B6CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48B3B5A-74AD-4A33-9111-FC8B18158673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48B3B5A-74AD-4A33-9111-FC8B18158673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48B3B5A-74AD-4A33-9111-FC8B18158673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48B3B5A-74AD-4A33-9111-FC8B18158673}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
